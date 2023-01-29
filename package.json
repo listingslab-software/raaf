@@ -1,6 +1,6 @@
 {
-  "name": "@listingslab-software/raaf",
-  "version": "1.0.0",
+  "name": "@listingslab/raaf",
+  "version": "1.0.1",
   "description": "Responsive As All Fuck",
   "main": "./lib/cjs/index.js",
   "types": "./lib/cjs/types/index.d.ts",
@@ -30,9 +30,6 @@
         "default": "./lib/cjs/index.js"
       }
     }
-  },
-  "dependencies": {
-    "typescript": "^4.9.4"
   },
   "devDependencies": {
     "@types/chai": "^4.3.4",
